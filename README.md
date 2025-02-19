@@ -1,3 +1,3 @@
-## Minimalist Clock
+# Minimalist Clock
 
 ![](clock.png)
